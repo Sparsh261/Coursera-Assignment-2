@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: ;
+}
+
+header{
+    background-color:#61122f;
+    /* border: 5px solid brown; */
+    height: 60px;
+}
+
+nav{
+    /* margin-left: 40%; */
+    /* clear: both; */
+}
+
+h1{
+    font-size: 2.5em;      
+    /* float: left;  */
+    /* color: #fff; */
+    display: inline;
+    /* clear: both; */
+    /* background-color: aqua; */
+}
+
+
+.navbar-collapse ul{
+    background-color:#61122f;
+
+}
+
+
+.chicken{
+    /* width: 100%; */
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:425px){
+    h1{
+        font-size: 10vw;
+    }
+}
